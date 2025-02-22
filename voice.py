@@ -17,4 +17,4 @@ if st.button("Start Recording"):
     except sr.UnknownValueError:
         st.error("Could not understand audio")
     except sr.RequestError as e:
-        st.error(f"Could not request results from Google Speech Recognition service; {e}")
+        st.error(f"Could not request results from Google Speech Recognition service; {e}")
