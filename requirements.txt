@@ -8,6 +8,8 @@ streamlit-ace
 streamlit-extras
 pdf2image
 gtts
+pipwin
+pyaudio
 pillow
 google.generativeai
 IPython
