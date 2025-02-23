@@ -30,5 +30,4 @@ if st.button("Start Recording"):
         st.error(f"⚠️ An error occurred: {e}")
 
 # Footer
-st.markdown("---")
-st.markdown("Made with ❤️ using Streamlit and SpeechRecognition")
+
