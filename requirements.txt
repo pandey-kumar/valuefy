@@ -1,4 +1,4 @@
-pyaudio
+
 firebase-admin
 google-cloud-firestore
 SpeechRecognition
